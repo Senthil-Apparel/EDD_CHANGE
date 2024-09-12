@@ -1,0 +1,3 @@
+EDD Change Project helps the business to consolidate the orders at customer order level .  
+sorting functionality in RWMS, assigns the bin to a customer order based on delivery date.
+For example if customer order has two different delivery dates , it will assign two bins.
